@@ -13,13 +13,13 @@ The following are used to apply FT house style to geographic placenames:
 Use the raw CSV view of these files to import them directly into Google sheets:
 
 ```excel
-=IMPORTDATA("https://github.com/Financial-Times/data-journalism-metadata/blob/main/data/countries.csv")
+=IMPORTDATA("https://raw.githubusercontent.com/Financial-Times/data-journalism-metadata/main/data/countries.csv")
 ```
 
 or R:
 
 ```r
-ft_countries <- read_csv("https://github.com/Financial-Times/data-journalism-metadata/blob/main/data/countries.csv")
+ft_countries <- read_csv("https://raw.githubusercontent.com/Financial-Times/data-journalism-metadata/main/data/countries.csv")
 ```
 
 ## Sources
