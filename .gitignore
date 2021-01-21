@@ -34,3 +34,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+data/.DS_Store
+.DS_Store
+data-journalism-metadata.Rproj
+data/raw/*
+src/update-populations.R
