@@ -39,3 +39,4 @@ data/.DS_Store
 data-journalism-metadata.Rproj
 data/raw/*
 src/update-populations.R
+src/update-us-counties.R
